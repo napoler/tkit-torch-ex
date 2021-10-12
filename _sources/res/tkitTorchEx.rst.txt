@@ -1,0 +1,21 @@
+tkitTorchEx package
+===================
+
+Submodules
+----------
+
+tkitTorchEx.shift\_tokens\_right module
+---------------------------------------
+
+.. automodule:: tkitTorchEx.shift_tokens_right
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: tkitTorchEx
+   :members:
+   :undoc-members:
+   :show-inheritance:
