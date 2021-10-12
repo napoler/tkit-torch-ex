@@ -1,4 +1,8 @@
-# 一个创建库的demo
+# 
+
+```
+pip install tkitTorchEx
+```
 便于快速创建自己的第三方库
 
 
