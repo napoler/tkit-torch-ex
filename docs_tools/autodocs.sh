@@ -18,14 +18,14 @@ pip install sphinx-autobuild
 #markdown基础支持
 #recommonmark的PyPi说明：https://pypi.org/project/sphinx-markdown-tables/
 pip install recommonmark
-
+pip install torch
 
 rm -rf ../docs 
 #
 #清理之前生成的文档
 rm -rf ./source/res/
 #扫描目录 Demo
-sphinx-apidoc -o ./source/res ../Demo
+sphinx-apidoc -o ./source/res ../tkitTorchEx
 
 #编译成为html
 #make html

@@ -6,9 +6,9 @@ import time
 
 # 这里是基本的信息
 
-name='tkitDemo'#修改包名字-
-version='0.0.0.2'+str(time.time())[:8]
-description='Terry toolkit Demo,'
+name='tkitTorchEx'#修改包名字-
+version='0.0.0.1'+str(time.time())[:8]
+description='Terry toolkit tkitTorchEx,'
 author='Terry Chan'
 author_email='napoler2008@gmail.com'
 url='http://docs.terrychan.org/tkit-lr-pytorch/'
@@ -61,7 +61,7 @@ setup(
 
 
     # ],
-    packages=['Demo'],  # 扫描的目录
+    packages=['tkitTorchEx'],  # 扫描的目录
     nclude_package_data=True,  # 打包包含静态文件标识
     )
 
